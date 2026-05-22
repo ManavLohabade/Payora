@@ -1,0 +1,11 @@
+{
+  "name": "payora",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An ERC-7857 iNFT that manages paycheck allocation using 0G Storage, 0G Compute, and Uniswap",
+  "scripts": {
+    "deploy": "pnpm --filter @payora/contracts deploy",
+    "bot": "pnpm --filter agent dev",
+    "compile": "pnpm --filter @payora/contracts compile"
+  }
+}

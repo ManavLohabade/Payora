@@ -1,0 +1,8 @@
+packages:
+  - contracts
+  - uniswap
+
+allowBuilds:
+  bufferutil: true
+  keccak: true
+  secp256k1: true

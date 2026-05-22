@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Build outputs
+dist/
+build/
+
+# Hardhat
+cache/
+artifacts/
+typechain-types/
+coverage/
+
+# Logs & OS
+*.log
+.DS_Store
+
+# Local data
+.data/
