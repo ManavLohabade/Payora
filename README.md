@@ -43,7 +43,7 @@ No ML training. The agent's memory is its decision log stored in 0G Storage. Whe
 ## Project Structure
 
 ```
-zer0x/
+Payora/
 ├── contracts/                       # Hardhat project
 │   ├── contracts/
 │   │   ├── PayoraNFT.sol         # ERC-7857 iNFT implementation
