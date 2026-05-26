@@ -5,8 +5,8 @@ packages:
 
 allowBuilds:
   bufferutil: true
-  es5-ext: set this to true or false
-  esbuild: set this to true or false
+  es5-ext: true
+  esbuild: true
   keccak: true
   secp256k1: true
-  utf-8-validate: set this to true or false
+  utf-8-validate: true
